@@ -23,7 +23,7 @@
 
 # CREDITS:
 #   Joel Schaerer aka joelthelion for autojump
-#   Daniel Drucker aka dmd for finding bugs and making Joel late for lunch
+#   Rupa (http://github.com/rupa) for bash version (http://github.com/rupa/j)
 #   Burke Libbey for porting to zsh
 j() {
  # change jfile if you already have a .j file for something else

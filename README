@@ -23,5 +23,5 @@ TIPS:
 
 CREDITS:
   Joel Schaerer aka joelthelion for autojump
-  Daniel Drucker aka dmd for finding bugs and making Joel late for lunch
-  Burke Libbey for porting to zsh
+ Rupa (http://github.com/rupa) for bash version (http://github.com/rupa/j)
+ Burke Libbey for porting to zsh
